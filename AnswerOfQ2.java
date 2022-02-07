@@ -1,7 +1,7 @@
 /**
  * Created by hp on 07-Feb-22.
  */
-public class AnswerOfQ3 {
+public class AnswerOfQ2 {
    int a[]=new int[]{12,13,14,15};
     public void pop(int d){
         for (int i = 0; i <a.length ; i++) {
